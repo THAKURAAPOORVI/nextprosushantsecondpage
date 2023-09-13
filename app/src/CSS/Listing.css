@@ -1,0 +1,269 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Fira+Sans:wght@100&display=swap');
+
+
+/* section{
+
+    background-image:url('../../../public/asset/headeroval.png');
+
+    background-size: cover; 
+    background-position: center; 
+height: 740px;} */
+/* .mainrowarea{
+    display:flex;
+    justify-content: space-around;
+}
+.coverarea{
+    padding-top: 56px;
+}
+.icimage{
+    display: flex;
+    justify-content: space-between !important;
+} */
+.imgpart{
+    /* margin-right: 2%; */
+}
+/* .mer{
+    margin-inline: 34px;
+}
+.previouscar{
+
+    display: flex;
+    justify-content: center;
+} */
+/* .cls{
+    color: #E8DECF;
+    padding-top: 10px;
+}
+.closebutton{
+    display: flex;
+    justify-content: center;
+} */
+/* .closeimage{
+    display: block;
+}
+
+.headingarea h1{
+    color: #E8DECF;
+    font-family: Fira Sans;
+font-size: 60px;
+font-weight: 400;
+line-height: 72px;
+letter-spacing: -0.5px;
+text-align: center;
+
+
+} */
+/* .headingarea h4{
+    font-family: Founders Grotesk;
+font-size: 24px;
+font-weight: 400;
+line-height: 34px;
+letter-spacing: 0px;
+text-align: center;
+color: #969696;
+width: 600px;
+}
+.containerbox{
+    margin-top: 5%;
+} */
+.heading4{
+    /* display: flex;
+    justify-content: center; */
+    /* width: 600px; */
+    /* align-items: center; */
+}
+/* .cellpart{
+    border-radius: 50px;
+    background-color: white;
+    width: 800px;
+    height: 90px;
+}
+.conbox{
+    justify-content: center;
+    padding: 0 22%;
+    margin-top: 8%;
+
+} */
+.headersection{
+    background-image: url('/asset/headeroval.png');
+       height: 700px;
+       background-repeat: no-repeat;
+       background-size: cover;
+   }
+   .rowheader{
+       display: flex;
+       justify-content: space-between;
+       padding-top: 3%;
+       padding-left: 10%;
+       padding-right: 10%;
+   }
+   .prevcar{
+       font-family: Founders Grotesk;
+   font-size: 16px;
+   font-weight: 400;
+   line-height: 19px;
+   letter-spacing: 0px;
+   text-align: right;
+   color: #969696;
+   }
+   .benz{
+   
+       font-family: Founders Grotesk;
+   font-size: 18px;
+   font-weight: 400;
+   line-height: 22px;
+   letter-spacing: 0px;
+   text-align: right;
+   color: #E8DECF;
+   
+   }
+   .arrbenz{
+       display: flex;
+   }
+   .previouscar{
+       display: flex;
+       justify-content: end;
+   }
+   .imagenextcar{
+       margin-left: 50px;
+   }
+   .imagepart{
+       margin-right: 50px;
+   
+   }
+   .fira-sans{
+       font-family: Fira Sans;
+   font-size: 60px;
+   font-weight: 400;
+   line-height: 72px;
+   letter-spacing: -0.5px;
+   text-align: center;
+   color: #E8DECF;
+   }
+   .Founders-Grotesk{
+       font-family: Founders Grotesk;
+       font-size: 29px;
+       font-weight: 400;
+       line-height: 34px;
+       letter-spacing: 0px;
+       text-align: center;
+   color: #969696;
+   width: 711px;
+       text-align: center;    
+   }
+   .Founders{
+       display: flex;
+       justify-content: center;
+   }
+   .container {
+       display: grid;
+       /* grid-template-columns: repeat(auto-fit, minmax(200px, 1fr)); */
+       grid-gap: 20px;
+       /* justify-content: center; */
+     }
+     section{
+       
+   
+       display: grid;
+       justify-content: center;
+       justify-items: center;
+   
+     }
+     .founders{
+       justify-content: center;
+       /* text-align: center; */
+       /* align-items: center; */
+       display: grid;
+     }
+     .rounded-full{
+       background-color: 
+       #FFFFFF;
+       box-shadow: 0px 0px 10px 0px #0000001A;
+   height: 90px;
+   margin-top: 100px;
+     }
+    .text-current{
+       color: #828282;
+       font-family: Founders Grotesk;
+   font-size: 16px;
+   font-weight: 400;
+   line-height: 19px;
+   letter-spacing: 0.800000011920929px;
+   text-align: center;
+   margin-top: 20px;
+   display: flex;
+   justify-content: center;
+   text-align: center;
+   
+   
+    }	
+    .timeperiod{
+       color: 
+       #DB1B1B;
+       font-family: Founders Grotesk;
+   font-size: 24px;
+   font-weight: 500;
+   line-height: 29px;
+   letter-spacing: 0.8999999761581421px;
+   text-align: center;
+   
+    }
+    .rowcol{
+       display: flex;
+       justify-content: space-between;
+       padding: 0 27px
+   
+    }
+    .line{
+       width: 1PX;
+       height: 45PX;
+       /* border: 1px; */
+       /* color: #E3E3E3; */
+       background: #E3E3E2;
+       margin-top: 19PX;
+       border: 1px solid #E3E3E3;
+   
+    }
+    .price{
+       font-family: Founders Grotesk;
+   font-size: 24px;
+   font-weight: 500;
+   line-height: 29px;
+   letter-spacing: 0.8999999761581421px;
+   text-align: center;
+   color: #000000;
+    }
+    .color{
+     background-color: #0E2328;
+    }
+    .site{
+       font-family: Founders Grotesk;
+   font-size: 14px;
+   font-weight: 400;
+   line-height: 17px;
+   letter-spacing: 0px;
+   text-align: center;
+   color: #867F73;
+    }
+    .bgcolor{
+       /* background-color: red; */
+    }
+    .bidnow{
+       font-family: Founders Grotesk;
+   font-size: 20px;
+   font-weight: 500;
+   line-height: 24px;
+   letter-spacing: 0px;
+   text-align: center;
+   color: #E8DECF;
+    }
+
+
+    .firstpart{
+        margin-top: -14px;
+    }
+    .closeimage{
+        display: flex;
+        justify-content: center;
+    }

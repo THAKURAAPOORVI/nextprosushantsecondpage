@@ -1,0 +1,61 @@
+
+
+/* @import url('https://fonts.googleapis.com/css2?family=Fira+Sans:wght@100&display=swap'); */
+.swiperSlide{
+    width:70%;
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    display: flex;
+}
+.swiperSlide img{
+    width: 120px;
+    height: 120px;
+    border-radius: 50%;
+    object-fit: cover
+}
+.myswiper{
+    display: flex;
+
+}
+.swiper-slide{
+    display: flex;
+}
+.swiper-wrapper {
+    position: relative;
+    width: 100%;
+    height: 100%;
+    z-index: 1;
+    display: flex;
+    transition-property: transform;
+    transition-timing-function: var(--swiper-wrapper-transition-timing-function, initial);
+    box-sizing: content-box;
+    /* margin-top: -20%; */
+}
+.slider-container {
+    display: flex;
+    margin-top: 28px;
+}
+.main{
+    /* width: 80%;
+    position: absolute;
+    white-space: nowrap; */
+    /* overflow: hidden; */
+  }
+  @media screen and (min-zoom: 25%) and (max-zoom: 50%) {
+    /* your CSS styles here */
+
+/* 
+
+    .containerss{
+        margin-top: -6%;
+    }
+    .slider-container{
+        display: flex;
+        padding: 0 17%;
+    } */
+ }
+/*  */
+
+
